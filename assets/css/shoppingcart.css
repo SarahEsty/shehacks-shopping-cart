@@ -1,0 +1,26 @@
+.box {
+  width: 20px;
+  margin-right: 30;
+}
+.day {
+  margin-left: 12.5rem;
+  background-color: slategrey;
+  font-weight: normal;
+}
+.sidebar {
+  height: 900px;
+  background-color: rgb(57, 22, 95);
+  padding: 50px;
+  color: aliceblue;
+  font-size: 30px;
+}
+.content {
+  background-color: rgb(220, 216, 228);
+}
+.cartimage {
+  height: 120px;
+  width: 120px;
+}
+.nav {
+  background-color: rgb(57, 22, 95);
+}
